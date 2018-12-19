@@ -3,6 +3,8 @@
 # Polynomial Fitting in C#
 December 13, 2014 by vilipetek
 
+![GitHub Logo](/img/PolyFitCSharpExample-300x200.png)
+
 # Example
 
 ```csharp 
